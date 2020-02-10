@@ -6,14 +6,18 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pandas = "*"
-geopandas = "*"
-matplotlib = "*"
-seaborn = "*"
-scipy = "*"
-jupyterhub = "*"
-jupyter = "*"
 descartes = "*"
+geopandas = "*"
+jupyter = "*"
+jupyterhub = "*"
+matplotlib = "*"
+pandas = "*"
+scikit-learn = "*"
+scipy = "*"
+seaborn = "*"
+spacy = "*"
+squarify = "*"
+wordcloud = "*"
 
 [requires]
 python_version = "3.6"
